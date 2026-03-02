@@ -29,6 +29,7 @@
     "mongoose": "^8.9.5",
     "next": "14.2.15",
     "next-nprogress-bar": "^2.3.12",
+    "pdf-parse": "^1.1.1",
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.52.1",
@@ -41,6 +42,7 @@
   },
   "devDependencies": {
     "@types/node": "^20",
+    "@types/pdf-parse": "^1.1.5",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@types/uuid": "^10.0.0",
